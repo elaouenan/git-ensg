@@ -2,6 +2,7 @@
 
 ![Logo Git](images/git-logo.svg)
 
+
 **Git est un VCS (Version Control System) ou logiciel de gestion de versions** qui est notamment pensé pour le travail collaboratif. Il offre la possibilité :
 
 - de stocker des fichiers ailleurs que sur votre ordinateur ou une clé USB
@@ -9,6 +10,8 @@
 - de garder un historique de toutes les modifications faites
 - de partager des fichiers de manière publique ou privée
 - et bien plus encore
+
+![Logo IGN](images/IGN_logo.png)
 
 **Git est un logiciel libre et open-source, qui ne repose pas sur un serveur centralisé**. Chaque personne d’un projet a donc sa propre copie du projet en local et peut être la référence pour les autres. Malgré tout, il est très fréquent d’utiliser un serveur intermédiaire comme Gitlab ou Github, qui sont des services d’hébergement de fichiers, et qui rendent le partage plus simple.
 
